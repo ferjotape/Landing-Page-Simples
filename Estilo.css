@@ -186,6 +186,16 @@ section.servicos{
 
 .servicos-card p{
     margin-top: 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.servicos-card p span{
+    font-weight: 700;
+}
+
+.servicos-card h2{
+    text-align: center;
 }
 
 .servicos-card__price{
@@ -194,7 +204,7 @@ section.servicos{
 
 .servicos-card__features{
     margin: 0 0 35px;
-    color: #a68b8b;
+    color: #000000;
     padding-left: 16px;
     line-height: 1.8;
     flex: 1;
